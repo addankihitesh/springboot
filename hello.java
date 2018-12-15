@@ -15,6 +15,6 @@ public void getdata(){
 public static void main(String []s){
 
 	hello h=new hello(1,"hitesh");
-	h.getdata();
+	System.out.print(h.getdata());
 }
 }
